@@ -1,5 +1,3 @@
-const { default: PokemonListPage } = require("../pages/PokemonList");
-
 const BASE_URL = 'https://pokeapi.co/api/v2/';
 const PokemonListEndpoint = 'pokemon';
 
